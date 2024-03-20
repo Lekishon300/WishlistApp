@@ -1,10 +1,6 @@
 # Android Project 2 - *WishlistApp*
 
-Submitted by: **Christine Lekishon**
-
 **Wishlist App** is a wishlist app that helps the user keep track of what they want to buy.
-
-Time spent: **8** hours spent in total
 
 ## Required Features
 
